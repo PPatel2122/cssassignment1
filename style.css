@@ -1,0 +1,36 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+}
+p{
+    color:rgb(34, 22, 46);
+}
+.un{
+    text-decoration-line: underline;
+    text-decoration-color: blueviolet;  
+  }
+  #space{
+    letter-spacing: 7px;
+  }
+  h2.link{
+    
+    text-decoration-color:red;
+
+  }
+  .color{
+    background-color: yellow;
+
+  }
+  .cut{
+      text-decoration: line-through;
+  }
+  .co{
+    background-color: yellow;
+  }
+  .ku{
+    background-color: yellow;
+    text-decoration: none;
+  }
+  
